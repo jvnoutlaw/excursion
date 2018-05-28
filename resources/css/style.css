@@ -15,7 +15,7 @@ h1 {
   color: Aquamarine;
   font-family: Verdana;
 }
-.video {
+.move {
   text-align: center;
   font-weight: 300;
   font-size: 42px;
@@ -36,6 +36,6 @@ p {
 }
 
 .right{
-  text-align:
+  text-align: right;
   color: gray;
 }
